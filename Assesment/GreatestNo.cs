@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//WAP to find out the greatest no no. between three no.
+//Write a program to find out the greatest number between three no
 namespace Assesment
 {
     public class GreatestNo
