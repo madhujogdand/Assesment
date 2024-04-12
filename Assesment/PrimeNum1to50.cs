@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Assesment
 {
     // prime no. between 1 tp 50
-    internal class PrimeNum1to50
+    public class PrimeNum1to50
     {
        static bool CheckPrime(int n)
         {
