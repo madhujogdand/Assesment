@@ -28,6 +28,7 @@ namespace Assesment.SirCodes
             Console.WriteLine("Price:"+Price);
         }
 
+        //using ToString()
         public override string ToString()
         {
             return $"{Id}-{Name}-{Price}";

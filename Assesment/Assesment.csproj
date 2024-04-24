@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Assesment.SirCodes.MatrixAddition</StartupObject>
+    <StartupObject>Assesment.SirCodes.IComparableDemo</StartupObject>
   </PropertyGroup>
 
 </Project>
